@@ -1,2 +1,1 @@
-# capstone
 # Capstone project files
